@@ -1,0 +1,24 @@
+É o ato de executar funções antes de suas declarações. Ele afeta a intepretação de um código no momento 
+em que na execução o javascript coloca todas as declarações de funções e variáveis vão para cima independente
+de onde essas declarações foram feitas.
+
+exemplo:
+
+	verdades()
+
+	function verdades (){
+		var frase = "quero muito melhorar e voltar para a universidade, tem sido dificil pra mim,
+		tenho medo de perder a perna, mas o mais importante pra mim e perder a interacao com meus amigos alunos e 
+		amigos professores, n queria perder esse semestre" 
+
+		var frase2 = "estou fazendo de tudo para melhorar e agradeco muito a todos que me me ajudam todo dia
+		se n fosse isso, eu com ctz estaria em um estado muito pior do que estou agora"
+
+		return frase + frase2
+	}
+
+	
+em algumas lingugagens de programação isso daria problema, pois a função verdades está sendo chamada antes mesmo
+de ser criada, mas com esse recurso isso não acontece, podendo isso ser considerada uma facilidade.
+
+

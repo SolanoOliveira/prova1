@@ -1,0 +1,9 @@
+primeiro erro - onde está "background-color" não faz sentido, pois background-color é um atributo css e não um seletor
+
+segundo erro - onde está "#para: blue" n faz sentido, pois #para é um seletor id e não um atributo css.
+
+terceiro ero - a tag <strong> precisa de fechamento </strong>.
+
+quarto erro - uma variável de fato pode ser uma função em javascript, mas não da forma apresentada, deveria ser var
+instituto = function() {}
+
