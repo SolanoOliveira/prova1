@@ -1,3 +1,6 @@
+Todos os seletores foram identificados corretamente
+Nota: 2.0
+
 <style>
 
 span{

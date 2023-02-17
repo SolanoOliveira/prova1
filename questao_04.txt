@@ -1,3 +1,8 @@
+Conceito de hoinsting correto.
+Exemplo de código correto
+Nota: 2.0
+Obs: Sei que vc está passando por um momento difícil. Só presta atenção ao que sua mente tem tido sobre este momento. O que a mente diz sobre um fato tem muito mais importância do que o fato em si. Aprender a dominar os pensamentos é a melhor coisa que vc pode fazer agora. Sei disso por experiência própria. Melhoras para vc.
+
 É o ato de executar funções antes de suas declarações. Ele afeta a intepretação de um código no momento 
 em que na execução o javascript coloca todas as declarações de funções e variáveis vão para cima independente
 de onde essas declarações foram feitas.

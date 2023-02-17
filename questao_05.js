@@ -1,3 +1,6 @@
+// Código desenvolvido corretamente
+// Nota: 2.0
+
 class Venda {
     constructor(id,quantidade,preco) {  
             this.id = id;

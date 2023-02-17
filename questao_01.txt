@@ -1,3 +1,6 @@
+Apenas o último erro não está correto.
+Nota 1.5
+
 primeiro erro - onde está "background-color" não faz sentido, pois background-color é um atributo css e não um seletor
 
 segundo erro - onde está "#para: blue" n faz sentido, pois #para é um seletor id e não um atributo css.
